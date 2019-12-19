@@ -1,0 +1,87 @@
+{
+    "name": "Open Gov Partnership",
+    "description": "Learn more about the Story of OGP here: https:\/\/www.youtube.com\/watch?v=HQ3esru23bc&feature=youtu.be",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10192-open-gov-partnership.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-gov-partnership\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Gov Partnership",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10192-open-gov-partnership.jpg",
+            "humanURL": "http:\/\/www.opengovpartnership.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-gov-partnership-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.opengovpartnership.org\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/open-government-partnership"
+        },
+        {
+            "type": "Email",
+            "url": "web@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "info@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "Joe.Powell@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "meghan.wallace@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "diana.leckie@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "jaime.mercado@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "Abhinav.Bahl@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "katrina.galang@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "mohammad.haider@opengovpartnership.org"
+        },
+        {
+            "type": "Email",
+            "url": "Munyema.Hasan@opengovpartnership.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/opengovpart"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.opengovpartnership.org\/"
+        }
+    ]
+}
